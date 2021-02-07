@@ -88,7 +88,6 @@ const SignIn: React.FC = () => {
             <Link to="/forgot-password">Esqueci minha senha</Link>
           </Form>
 
-
           <Link to="SignUp">
             <FiLogIn />
             Criar conta
@@ -96,7 +95,7 @@ const SignIn: React.FC = () => {
         </AnimationContainer>
       </Content>
       <Background />
-    </Container >
+    </Container>
   );
 };
 
